@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-2845cd6397a01fa53833d3670aa0b51b1065626f.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-f10cd59c4bf519f97bc5e42c604146c27ea48947.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-e3067e1a96563695ca22f9aa72af340c011ecf51.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-4ea46205bd6fa6098e5eca3d0e29815b0deed088.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-fcc7b5951099822fa333d477dbf417b0a8a2a5a5.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-3630751677ca32eb192cd750acc2af33953fd953.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-d4028f3decd52a9c8d590ee69be27c73aba4257c.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-9d85dd8b6fe07ac054a349a74440f417f07b0c60.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-50ec5430600afc00175836ff5f40dcbbf952d13b.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-297f44ea7a91e6f5c5c076ad95291c111e715f37.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-92ad8a0171331d0295ed3c8adfc9553c61368fbf.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-c54f94662165b00ad30930a193a646baaa1bd5dc.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-5fb6e53c715ae8e4373a1839a645145f5a64e2ef.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-b7ed205718e38e6756a1765940f003d793a599b1.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-0b6a9d0a4178c6e52d15719b0aeda12cdab4f058.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-3891518fbec86164d20675e1e599c6ea20a9ec52.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-1df39a6062141083472defcc7764e60e81a1ce0e.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-6e8c3d5dd53a13bb9742c8817c76f62c54855f6f.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-7c1641d4e0b571222c8cb626d3fe95584c899270.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-b31af85c1a5bc6d1b163c9cedd1d2785eede66bd.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-0d534addc4d254c86ba1827eb9ff12f0a0434467.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-a6cf9f4bab28ba95a9931d1612c756ac0530f7d6.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-1b675c2892c1522d5c9ff0cb1562c51bbc4a59d8.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-a3b209702af9c152669ab2c95360c22f2accddf7.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-e077045ae6a7a2d6569f58cf8f17f3b007d8a296.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-d2ac063c5917599c89748f98905434698f702259.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-1545d8605b4b474facb15dcaf4343b8d588408b5.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-4d7e6e41b8d5402c2d19c838675f535f9d9bb75a.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-96a44416854731180011ab491d16287b2850bfef.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/classes-d94dabe50ee0ecd3a6d3dfb4c424cee756aa5196.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-132cb89bba19d5ca6ce3e3d4a649228c0711c640.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-2947871fcc7807d2166e17d9d70b54a5d5399ad4.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/yanan/ReactNative/reactNativePAJK/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-dc9d0d770861308655ace560ec759fadf41e510d.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-a9fc583a6dbe8990131b6dc0f8669ed10336d39f.jar" />
+    </item>
+    <item
+        jar="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.31.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/Users/yanan/Git/MyGit/react-native-app-demo/android/app/build/intermediates/pre-dexed/debug/classes-c2b5b05f45014893786f768dcb60a0e980e0da25.jar" />
+    </item>
+
+</items>
